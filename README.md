@@ -1,6 +1,6 @@
 # RL Collaborative Practicals
 
-This repository contains a series of Jupyter notebooks designed as practical exercises for understanding and implementing key concepts in Reinforcement Learning (RL). The materials are intended for students and researchers who wish to strengthen their theoretical foundation and gain hands-on experience with RL algorithms.
+This repository contains some Jupyter notebooks designed by Dr Mehrdad Ghaziasgar as practical exercises for AIMS SA students for understanding and implementing key concepts in Reinforcement Learning (RL).
 
 ## Background
 
@@ -99,7 +99,7 @@ If you use these materials in your work, please provide proper acknowledgment us
 Author: Oumarou Moussa Bola & Dishanan Jayprokash  
 Title: RL Collaborative Practicals  
 Institution: AIMS SA 
-Instructor:Mehrdad Ghaziasgar, University of Western Cape
+Instructor: Mehrdad Ghaziasgar, University of the Western Cape
 Year: 2024 
 Repository: https://github.com/OMB227/RL_Collaborative-Practicals  
 ```
