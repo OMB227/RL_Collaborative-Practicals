@@ -99,7 +99,7 @@ If you use these materials in your work, please provide proper acknowledgment us
 Author: Oumarou Moussa Bola & Dishanan Jayprokash  
 Title: RL Collaborative Practicals  
 Institution: AIMS SA 
-Instructor:  
+Instructor:Mehrdad Ghaziasgar, University of Western Cape
 Year: 2024 
 Repository: https://github.com/OMB227/RL_Collaborative-Practicals  
 ```
